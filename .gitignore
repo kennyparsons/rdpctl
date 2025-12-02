@@ -1,0 +1,12 @@
+# Build
+rdpctl
+
+# Mac
+.DS_Store
+
+# Editor
+.vscode
+.idea
+
+# Local specific
+*.log
